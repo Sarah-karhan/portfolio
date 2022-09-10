@@ -1,0 +1,80 @@
+.section1{
+    opacity:0.9;
+    width: 1520px;
+    position:absolute;
+    top:0px;
+   left:0px;
+   z-index:1000;
+   color: black;
+   text-align: center;
+   font-family: 'Courier New', monospace;
+   background-color:lightyellow;
+  }
+  img{
+      
+      height: 200px;
+      width: 200px;
+      border-radius: 300px;
+      margin: auto;
+     
+  }
+  .section2{
+      position:absolute; 
+      width: 950px;
+      top:450px;
+       left:340px;
+      z-index:1000;
+      display: block;
+      color: black;
+      font-family: 'Courier New', monospace;
+      text-align:left;
+      
+  }
+  .small-section{
+      
+      position:absolute; 
+      width: 1000px;
+      top:480px;
+       left:144px;
+      z-index:1000;
+  }
+
+  .fa {
+  padding: 5px;
+  font-size: 10px;
+  width: 10px;
+  color: lightcoral;
+  text-align: center;
+   text-decoration: none;
+   border-radius: 50%;
+}
+
+ .fa-skype {  
+     background: #00aff0;  
+     color: white;  
+ }  
+  .fa:hover {  
+   opacity: 0.5;  
+    }  
+    body{
+      height: 1500px;
+    }
+    .section3{
+      position:absolute; 
+      width: 1000px;
+      top:900px;
+       left:340px;
+      z-index:1000;
+      display: block;
+      color: black;
+      font-family: 'Courier New', monospace;
+      text-align:left;
+    }
+    .small-section2{
+      
+      position:absolute; 
+      width: 500px;
+      top:1000px;
+      right:0px;
+      z-index:1000;
+  }
